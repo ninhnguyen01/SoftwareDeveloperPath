@@ -1,4 +1,5 @@
 # This py file is a modification of the 03_08_solution. 
+# By Ninh Nguyen
 
 print("Challenge 1:")
 
