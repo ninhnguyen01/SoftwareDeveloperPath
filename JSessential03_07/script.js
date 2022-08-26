@@ -5,10 +5,10 @@
 
 const car = {
     Name: "My Baby",
-    Brand: "Toyota",
-    Model: "Camry SE",
-    Door: 4,
-    Type: "Sedan",
+    Brand: "Avionic",
+    Model: "Sonic",
+    Door: 2,
+    Type: "Coupe",
     Color: "White",
 
 };
