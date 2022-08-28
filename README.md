@@ -11,4 +11,6 @@ All credits for course files (JS), excluding my own, go to Morten Rand-Hendrikse
 
 All credits for course files (Python) in LearnPython, excluding my own, go to Joe Marini.
 
-All credits for course files (C#) in LearnC#/Finished, go to Joe Marini.
+All credits for course files (C#) in LearnC#/Finished, go to Joe Marini. 
+
+All credits for course files (SQL) go to Scott Simpson.
