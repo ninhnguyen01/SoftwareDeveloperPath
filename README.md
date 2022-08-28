@@ -10,3 +10,5 @@ All credits for course files (CSS), excluding my own, go to Christina Truong.
 All credits for course files (JS), excluding my own, go to Morten Rand-Hendriksen.
 
 All credits for course files (Python) in LearnPython, excluding my own, go to Joe Marini.
+
+All credits for course files (C#) in LearnC#/Finished, go to Joe Marini.
